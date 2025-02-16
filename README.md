@@ -1,23 +1,35 @@
-## Olá meu nome é joão e seja bem vindo ao meu perfil 👋
+<p align="center">Olá meu nome é joão e seja bem vindo ao meu perfil 👋<br><br>🔭 Procurando emprego na area<br>🌱 Estudando react js, node js, MySQL<br>📫 Email para contato: joaovitorsena116@gmail.com</p>
 
+###
 
-
-
-- 🔭 Procurando emprego na area
-- 🌱 Estudando react js, node js, MySQL  
-- 📫 Email para contato: joaovitorsena116@gmail.com
-
- <div>
-<a href="https://github.com/Jaozinho759">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaozinho759&layout=compact&langs_count=7&theme=dark"/>
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaozinho759&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaozinho759&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaozinho759&hide_progress=true&theme=dark)
+###
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" height="30"/> <img align="center" alt="Jao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Jao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<p align="left">Linguagens que eu uso ocasionalmente no dia-a-dia</p>
 
-            
-          
-          
-          
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+<div> 
+<img src="https://raw.githubusercontent.com/Jaozinho759/Jaozinho759/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
