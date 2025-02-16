@@ -1,5 +1,4 @@
-<p align="center">Olá meu nome é joão e seja bem vindo ao meu perfil 👋<br><br>🔭 Procurando emprego na area 
-  📫 Email para contato: joaovitorsena116@gmail.com</p>
+<p align="center">Olá meu nome é joão e seja bem vindo ao meu perfil 👋<br><br>🔭 Procurando emprego na area<br>📫 Email para contato: joaovitorsena116@gmail.com</p>
 
 ###
 
@@ -9,6 +8,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <p align="left">Linguagens que eu uso ocasionalmente no dia-a-dia</p>
 
@@ -23,14 +24,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-<div> 
-<img src="https://raw.githubusercontent.com/Jaozinho759/Jaozinho759/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/5a/50/5a/5a505a6560fe5d773a1846c76f43ce77.gif"  />
 </div>
 
 ###
-
