@@ -1,4 +1,5 @@
-<p align="center">Olá meu nome é joão e seja bem vindo ao meu perfil 👋<br><br>🔭 Procurando emprego na area<br>🌱 Estudando react js, node js, MySQL<br>📫 Email para contato: joaovitorsena116@gmail.com</p>
+<p align="center">Olá meu nome é joão e seja bem vindo ao meu perfil 👋<br><br>🔭 Procurando emprego na area 
+  📫 Email para contato: joaovitorsena116@gmail.com</p>
 
 ###
 
