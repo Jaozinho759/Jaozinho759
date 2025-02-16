@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Olá meu nome é joão e seja bem vindo ao meu perfil 👋<br><br>🔭 Procurando emprego na area<br>📫 Email para contato: joaovitorsena116@gmail.com</h3>
+<h3 align="center">Olá meu nome é joão e seja bem vindo ao meu perfil 👋<br><br>🔭 Procurando emprego na area<br>📫 Email para contato: joaovitorsena116@gmail.com<br>📝 Atualmente estudando Desenvolvimento de Sistemas na etec</h3>
 
 ###
 
